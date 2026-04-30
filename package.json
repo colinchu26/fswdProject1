@@ -11,9 +11,6 @@
   "devDependencies": {
     "vite": "^8.0.0-beta.13"
   },
-  "overrides": {
-    "vite": "^8.0.0-beta.13"
-  },
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
